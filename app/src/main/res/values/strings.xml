@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">CustomShareManager</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="share_email_native">native email</string>
+    <string name="share_email_subject">sübjekt</string>
+    <string name="share_chooser_text">OH YEAH</string>
+    <string name="share_twitter">twitoş</string>
+    <string name="share_facebook">facebok</string>
+    <string name="share_sms">sms_yo</string>
+    <string name="share_email_gmail">gmail jo</string>
+    <string name="whatsupp">WHATTSUPP YO</string>
+
+
+</resources>
